@@ -1,0 +1,4 @@
+Map cfg = {
+  'oAuthCliId': '',
+  'cliSecret': '',
+};
